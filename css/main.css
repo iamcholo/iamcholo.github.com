@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Karla');
 
 * {
-    margin: 0;
-    padding: 0;
-    -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
-    width: 620px;
-    margin: 80px;
-    background: #D4D4D4 url('../img/bg.png') no-repeat fixed 100% 100%;
-    color: #33373a;
-    font: 25px/35px Karla, sans-serif;
-    letter-spacing: -.2px;
+  width: 620px;
+  margin: 80px;
+  background: #D4D4D4 url('../img/bg.png') no-repeat fixed 100% 100%;
+  color: #33373a;
+  font: 25px/35px Karla, sans-serif;
+  letter-spacing: -.2px;
 }
 
 p { padding-bottom: 1.1em; }
